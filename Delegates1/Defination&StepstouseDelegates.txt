@@ -1,0 +1,34 @@
+Types how we can call  a method, in C#:
+---------------------------------------------------
+1. By creating instace of a class if the method is non-static.
+2. By using the name of the class if the method is static.
+3.Using a Delegate.
+
+Delegates:
+------------------
+User defined Type (like-class, structure etc.)
+It is defined inside the namespace.(preferably)
+Can be defined inside a class too.
+It is a Type-Safe function pointer.
+It holds the reference of a method and then calls the method for execution.
+Method-name Delegateare not same.
+Return type of delegate is always same as the return type of the method 
+Parameter type of delegate is always same as the parameter type of the method:
+
+Example:
+public delegate void AddDelegate(int x, int y)
+public void AddNum(int a, int b)
+
+public delegate string SayDelegate(string str)
+public static string Say(string name)
+
+
+To call a method using a Delegate:
+---------------------------------------------
+3 Steps:
+-----------
+1. [<modifier>] delegate void|type <Name> ([<parameter list>])
+1. Defining a delegate(inside te namespace/class. 
+2. Instantiating the delegate(create the instance of the delegate)
+3.Call the Delegate by passing required parameter values, so that internally the method which is bound with the delegate gets executed. (or, by using the invoke method inside the delegate always)
+
