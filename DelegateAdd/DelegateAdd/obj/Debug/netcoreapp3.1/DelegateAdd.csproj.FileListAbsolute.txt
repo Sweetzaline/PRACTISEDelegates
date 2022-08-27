@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Delegates\DelegateAdd\DelegateAdd\obj\Debug\netcoreapp3.1\DelegateAdd.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Delegates\DelegateAdd\DelegateAdd\obj\Debug\netcoreapp3.1\DelegateAdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Delegates\DelegateAdd\DelegateAdd\obj\Debug\netcoreapp3.1\DelegateAdd.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Delegates\DelegateAdd\DelegateAdd\obj\Debug\netcoreapp3.1\DelegateAdd.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Delegates\DelegateAdd\DelegateAdd\obj\Debug\netcoreapp3.1\DelegateAdd.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Delegates\DelegateAdd\DelegateAdd\bin\Debug\netcoreapp3.1\DelegateAdd.exe
+C:\Users\Amit Pegu\Desktop\Delegates\DelegateAdd\DelegateAdd\bin\Debug\netcoreapp3.1\DelegateAdd.deps.json
+C:\Users\Amit Pegu\Desktop\Delegates\DelegateAdd\DelegateAdd\bin\Debug\netcoreapp3.1\DelegateAdd.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Delegates\DelegateAdd\DelegateAdd\bin\Debug\netcoreapp3.1\DelegateAdd.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Delegates\DelegateAdd\DelegateAdd\bin\Debug\netcoreapp3.1\DelegateAdd.dll
+C:\Users\Amit Pegu\Desktop\Delegates\DelegateAdd\DelegateAdd\bin\Debug\netcoreapp3.1\DelegateAdd.pdb
+C:\Users\Amit Pegu\Desktop\Delegates\DelegateAdd\DelegateAdd\obj\Debug\netcoreapp3.1\DelegateAdd.dll
+C:\Users\Amit Pegu\Desktop\Delegates\DelegateAdd\DelegateAdd\obj\Debug\netcoreapp3.1\DelegateAdd.pdb
+C:\Users\Amit Pegu\Desktop\Delegates\DelegateAdd\DelegateAdd\obj\Debug\netcoreapp3.1\DelegateAdd.genruntimeconfig.cache
