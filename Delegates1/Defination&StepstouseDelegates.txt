@@ -1,0 +1,11 @@
+MultiCaste Delegate:
+---------------------------
+ In case of Non-returning methods:
+---------------------------------------------
+one single delegate call will inke the two methods, as the both methods have same parameter types, same return types.(or same signature.
+
+Returning type methods:
+-------------------------------------
+  It will invoke the last method return value only. it will override the previous method.
+
+*****So, while using MultiCaste Delegate, make sure to use Non-returning methods.
